@@ -34,7 +34,7 @@ img { display: block; max-width: 100%; height: auto; }
 
 /* Top Header Social Icons css---------------------------------------------------------------------------------------------------- */
 .header-section { background-color: #FFFFFF; }
-.header-section .widget { margin: 35px 0; }
+.header-section .widget { margin: 35px 0;}
 .header-info .widget.elitepress_header_widget { margin: 7px 0; }
 .header-section .widget.elitepress_social_icon_widget { margin: 7px 0; }
 .head-contact-social { margin: 2px 0px !important; padding: 0; }
